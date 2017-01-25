@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/**
+ * Copyright © 2016 Skyfronts. All rights reserved.
+ * See LICENSE.txt for license details.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade Skyfronts_Base to newer
+ * versions in the future.
+ *
+ * @category    Skyfronts
+ * @package     Skyfronts_Base
+ * @author      Skyfronts team
+ * Copyright (c) Skyfronts (https://www.skyfronts.com)
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Skyfronts_Base" setup_version="1.0.0"></module>
+</config>
